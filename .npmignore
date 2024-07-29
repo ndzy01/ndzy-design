@@ -1,0 +1,16 @@
+.husky
+.idea
+src/
+.eslintrc.cjs
+.prettierignore
+components.json
+deploy.sh
+index.html
+postcss.config.js
+prettier.config.cjs
+README.md
+tailwind.config.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
